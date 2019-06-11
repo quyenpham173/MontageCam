@@ -1,0 +1,7 @@
+# ninja log v5
+0	1406	0	CMakeFiles/preprocess.dir/C_preprocess.cpp.o	473d06470ab401bd
+0	2354	0	CMakeFiles/preprocess.dir/page_dewarp.cpp.o	852d1484dc025450
+2354	2412	0	/home/quyenpham/MyApplication/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libpreprocess.so	80b5678a8ecc7eba
+1	1375	0	CMakeFiles/preprocess.dir/C_preprocess.cpp.o	473d06470ab401bd
+1	2360	0	CMakeFiles/preprocess.dir/page_dewarp.cpp.o	852d1484dc025450
+2360	2441	0	/home/quyenpham/MyApplication/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libpreprocess.so	80b5678a8ecc7eba
